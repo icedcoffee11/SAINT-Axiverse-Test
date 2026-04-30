@@ -1,0 +1,21 @@
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local scratch files
+*.tmp
+*.bak
+*.draft
+
+# Generated exports
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+
+# Python/notebook scratch
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
